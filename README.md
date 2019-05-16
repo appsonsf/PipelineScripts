@@ -1,2 +1,9 @@
 # PipelineScripts
-come scripts for Build or Release pipelines
+
+some scripts for Build or Release pipelines
+
+## BuildScripts
+
+Include:
+
+- [AddPlacementConstraintsIntoApplicationManifest](BuildScripts/AddPlacementConstraintsIntoApplicationManifest.ps1)
